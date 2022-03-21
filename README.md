@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Freddy-254
 - 👀 I’m interested in ...programming and media production 
 - 🌱 I’m currently learning ...   computer science in University of Nairobi 
-- 💞️ I’m looking to collaborate on ...algorithm and program design
+- 💞️ I’m looking forward to collaborate on ...algorithm and program design
 - 📫 How to reach me ...0713005732
 
 <!---
